@@ -1,1 +1,3 @@
 # projeto_front_end_formularios
+
+Sobre o projeto para segunda feira dia 05/07. ATENÇÃO, TRABALHOS A SEREM ENTREGUES NO GITPAGES. Queremos que vocês façam um formulário (pode ser a partir do nosso, mas é daora que vocês escrevam do zero pra fixar o conhecimento!) com no mínimo 3 campos com hover e transition. O formulário em si deve ter um keyframe com uma animação bem bacana e que vocês gostem (nosso exemplo fez com que ele surgisse de uma das bordas e centralizasse). Também utilize dois botões, um de submit e outro de reset com seu hover e transition também. Atenção ao google fonts, favicon, comentários, sintaxe e semântica! Quaisquer duvidas sobre o código ou a problemática, entre em contato com os colegas ou com os professores, bora codaaaar ! :) (editado) 
