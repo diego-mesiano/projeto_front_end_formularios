@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    color: cornsilk;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+form{
+    padding: 30px;
+    margin: 25% auto;
+    max-width: 500px;
+    border-radius: 5px;
+    background-color:black;
+}
+
+button:disabled{
+    border-radius: 5px;
+    padding: 2px 124px;
+    border-style: none;
+
+}
+
+button:enabled{
+    border-radius: 5px;
+    padding: 2px 124px;
+    background-color: green;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    
+}
+p{
+    color: red;
+}
