@@ -18,11 +18,24 @@
             <fieldset>
                 <legend>Dados Pessoais</legend>
                 <label for="nome">Nome</label>
-                <input type="text" name="nome" id="nome" placeholder="Digite seu nome...">
+                <input type="text" name="nome" id="nome" placeholder="Digite seu nome">
                 <label for="sobrenome">Sobrenome</label>
-                <input type="text" name="sobrenome" id="sobrenome" placeholder="Digite seu sobrenome...">
+                <input type="text" name="sobrenome" id="sobrenome" placeholder="Digite seu sobrenome">
                 <label for="nome">CPF</label>
-                <input type="text" name="cpf" id="cpf" placeholder="Digite seu cpf..."> 
+                <input type="text" name="cpf" id="cpf" placeholder="xxx.xxx.xxx-xx"> 
+                <label for="rg">RG</label>
+                <input type="text" name="rg" id="rg" placeholder="xxxxxxxx-x">
+                <label for="nasc">Nasc.</label>
+                <input type="date" name="nasc" id="nasc">
+                <label for="mae">Nome da Mãe</label>
+                <input type="text" name="mae" id="mae" placeholder="Digite o nome da mamãe">
+                <fieldset>
+                    <legend>Confia em mim?</legend>
+                    <input type="radio" id="sim" name="confia">
+                    <label id="lblsconfia" for="sim">Sim</label>
+                    <input type="radio" id="nao" name="confia" checked>
+                    <label id="lblsconfia" for="nao">Não</label>
+                </label>
             </fieldset>
             <button class="enviar">Enviar</button>
             <button type="reset" class="limpar">Limpar</button>

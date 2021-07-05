@@ -5,6 +5,7 @@ form{
     padding: 30px;
     margin: 10% auto;
     max-width: 500px;
+    
     border-radius: 5px;
     background-color:rgb(170, 146, 146);
     animation-duration: 1s;
@@ -34,7 +35,7 @@ input{
     margin-top: 20px;
     margin-bottom: 8px;
     padding: 6px;
-    width: 400px;
+    width: 30%;
 }
 
 input:focus{
@@ -44,11 +45,37 @@ input:focus{
 }
 
 #sobrenome{
-    width: 360px;
+    width: 35%;
 }
 
 #cpf{
-    width: 411px;
+    width: 20%;
+}
+
+#rg{
+    width: 15%;
+}
+
+#nasc{
+    width: 31%;
+}
+
+#mae{
+    width: 74.5%;
+}
+
+#sim{
+    width: 20px;
+}
+
+#nao{
+    margin-left: 70%;
+    width: 20px;
+   
+}
+
+#lblsconfia{
+    font-weight: bold;
 }
 .imgsegura{
    margin: auto;
@@ -67,7 +94,7 @@ input:focus{
 button{
     margin-top: 20px;
     text-align: center;
-    padding: 10px 40px;
+    padding: 10px 33px;
     border-style: none;
     border-radius: 5px;
     background-color:#f4d500 ;
